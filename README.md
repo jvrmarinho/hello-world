@@ -1,6 +1,6 @@
 # hello-world
 
-print ("Hello World"
+print ("Hello World")
 
 Meu nome é João Victor, sou um programador iniciante.
 Estou aprendendo sobre git e github inicialmente para versionar e em breve trabalhar com projetos.
